@@ -1,6 +1,6 @@
-# Comparative-Media-Dataset
-
 ![logo](https://www.uva.nl/binaries/_ht_1702547471794/700x0-webp/content/gallery/subsites/extranet/huisstijl/logobestanden/fmg/en-logo-amsterdam-school-of-communication-research.jpg)
+# Comparative Media Dataset
+
 
 ![status](https://img.shields.io/badge/status-work_in_progress-blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Digicomlab/Comparative-Media-Dataset)
