@@ -2,7 +2,7 @@
 # Comparative Media Dataset
 
 [![DOI](https://zenodo.org/badge/819891749.svg)](https://zenodo.org/doi/10.5281/zenodo.13143145)
-![status](https://img.shields.io/badge/status-work_in_progress-blue)
+![status](https://img.shields.io/badge/status-pre_release-yellow)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Digicomlab/Comparative-Media-Dataset)
 ![GitHub Repo stars](https://img.shields.io/github/forks/Digicomlab/Comparative-Media-Dataset)
 ![GitHub Repo stars](https://img.shields.io/github/watchers/Digicomlab/Comparative-Media-Dataset)
