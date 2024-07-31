@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "The dataset can be cited as below."
+authors:
+- family-names: "Ho"
+  given-names: "Justin Chun-ting"
+  orcid: "https://orcid.org/0000-0002-7884-1059"
+- family-names: "A. Marthe"
+  given-names: "Möller"
+- family-names: "Strycharz"
+  given-names: "Joanna"
+- family-names: "Anne"
+  given-names: "Kroon"
+title: "Comparative Media Dataset"
+version: 0.0.1
+date-released: 2024-07-31
+url: "https://github.com/Digicomlab/Comparative-Media-Dataset/"
