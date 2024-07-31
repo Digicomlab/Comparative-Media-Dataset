@@ -1,7 +1,7 @@
 ![logo](https://www.uva.nl/binaries/_ht_1702547471794/700x0-webp/content/gallery/subsites/extranet/huisstijl/logobestanden/fmg/en-logo-amsterdam-school-of-communication-research.jpg)
 # Comparative Media Dataset
 
-
+[![DOI](https://zenodo.org/badge/819891749.svg)](https://zenodo.org/doi/10.5281/zenodo.13143145)
 ![status](https://img.shields.io/badge/status-work_in_progress-blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Digicomlab/Comparative-Media-Dataset)
 ![GitHub Repo stars](https://img.shields.io/github/forks/Digicomlab/Comparative-Media-Dataset)
