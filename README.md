@@ -11,11 +11,6 @@ The analysis of textual content -- such as news articles, online reviews, corpor
 
 The Comparative Media Dataset consists of articles from the top outlets of the 90 participating countries in the Joint European Values Survey/World Values Survey 2017-2022 Dataset. To bypass the limitation on disseminating copyrighted materials, we will use an approach similar to the standard practice for sharing Twitter data: the dataset will not contain the actual content of the articles, but links to Common Crawl, an open access repository of web crawl data. A software package will be developed to extract the texts from the Common Crawl data files.
 
-## Timeline
-- 1 October, 2023: Invitation for contributions on annotation variables
-- 15 November, 2023: Completion of Crowd-annotation
-- 15 January, 2024 (tentative): Release of dataset
-
 ## Team Member
 ### Investigators
 * Justin Chun-ting Ho
